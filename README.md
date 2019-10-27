@@ -10,6 +10,7 @@ Here are the list of instructions carried out in the project:
 
 CSVs are inspected and  Entity Relationship Diagram (ERD) of the tables are sketched.
 
+![ERD Diagram](Entity_Relationship_Diagram_ERD.JPG)
 
 #### Data Engineering
 
