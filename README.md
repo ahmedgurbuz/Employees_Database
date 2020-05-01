@@ -1,6 +1,6 @@
 # Employee Database
 
-In this project, the database of employees of the Pewlett Hackard corporation from the 1980s and 1990s is analyzed. Tables are designed to hold data in the CSV and then those CSVs are imported into a SQL database. 
+In this project, the database of employees of the Pewlett Hackard corporation from the 1980s and 1990s is analyzed. Tables are designed to hold data in the CSV files and then those CSV files are imported into a SQL database. 
 
 Data Modeling, Data Engineering, and Data Analysis skills are performed to derive results. 
 
@@ -8,7 +8,7 @@ Here are the list of instructions carried out in the project:
 
 #### Data Modeling
 
-CSVs are inspected and  Entity Relationship Diagram (ERD) of the tables are sketched.
+CSV files are inspected and  Entity Relationship Diagram (ERD) of the tables are sketched.
 
 ![ERD Diagram](Entity_Relationship_Diagram_ERD.JPG)
 
